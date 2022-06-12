@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabriel-landowski
+- 👀 I’m interested in wargaming and cyber related topics.
+- 🌱 I’m currently learning Binary RE
+- 💞️ I’m looking to collaborate on learning Cyber
+- 📫 How to reach me gabriel_landowski@yahoo.com
